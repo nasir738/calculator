@@ -1,0 +1,33 @@
+.container{
+    background-color: rgb(168, 168, 168);
+    width: 500px;
+}
+
+.calculator{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(253, 233, 233);
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid #777;
+}
+.main-bar{
+    margin-bottom: 20px;
+    text-align: right;
+
+}
+.btn{
+    
+    cursor: pointer;
+    width: 60px;
+}
+.line{
+    margin-bottom: 20px;
+}
+.last input {
+    width:125px;
+}
+input.form-control.main-bar {
+    font-size: 3rem;
+    font-weight: bold;
+}
